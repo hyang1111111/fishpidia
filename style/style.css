@@ -239,6 +239,12 @@ a {
   padding-right: 6px;
 }
 
+.bottom_img {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
 .contents__text {
   font-family: "Pretendard";
   font-weight: 400;
@@ -378,7 +384,8 @@ footer {
   margin-block: 4px;
 }
 .sub_img_container img {
-  padding: 4px;
+  padding-inline: 4px;
+  padding-top: 4px;
   width: 100%;
 }
 .sub_img_container .text {
