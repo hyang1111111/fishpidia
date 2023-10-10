@@ -243,6 +243,7 @@ a {
   display: flex;
   flex-direction: row;
   gap: 8px;
+  margin-top: 103px;
 }
 
 .contents__text {
